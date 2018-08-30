@@ -1,0 +1,83 @@
+.body{
+  background-color: #c5dfc5;
+  padding-left: 300px;
+  padding-right: 300px;
+
+
+
+}
+.navigation{
+    list-style: none;
+    
+
+
+}
+.navigation ul li{
+    display: inline-block;
+    
+
+}
+.navigation ul li a{
+    text-decoration: none;
+    color: gray;
+    padding: 2rem;
+    
+
+}
+.navigation ul li a:hover{
+    text-decoration: none;
+    color: #86b89b;
+    
+
+}
+.tabla{
+    border-bottom: gray solid;
+    border-top: gray solid;
+    align-items: center;
+    float: right;
+    margin: 130px;
+
+}
+.fas.fa-cloud{
+    color:#e7f2e7;
+    font-size:250px;
+
+}
+.letra1{
+
+    margin: -200px 200px;
+    font-size: 50px;
+}
+
+.letrap{
+    font-size: 40px;
+    margin: 0;
+
+}
+.TLE nav{
+    
+    list-style: none;
+    
+    
+    
+
+
+}
+.TLE nav ul li{
+    display: inline-block;
+    margin-right: 10rem;
+    
+
+}
+.TLE nav ul li a{
+    text-decoration: none;
+    color: gray;
+    padding: 15rem;
+    
+
+}
+.TLE{
+    margin:0;
+   
+
+}
