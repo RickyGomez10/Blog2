@@ -36,6 +36,7 @@
     align-items: center;
     float: right;
     margin: 130px;
+    display: inline-block;
 
 }
 .fas.fa-cloud{
@@ -80,4 +81,17 @@
     margin:0;
    
 
+}
+
+.Publicacion1{
+    background-color: white;
+
+}
+.Publicacion1 img{
+    width:25em;
+    height: 25em;
+
+}
+.Publicacion1 i{
+    font-size: 2em;
 }
